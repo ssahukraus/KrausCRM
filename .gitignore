@@ -36,7 +36,6 @@ robots.txt
 service/*
 soap.php
 soap/*
-test.php
 .htaccess
 HandleAjaxCall.php
 LICENSE.txt

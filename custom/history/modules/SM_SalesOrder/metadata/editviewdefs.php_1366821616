@@ -1,0 +1,104 @@
+<?php
+$viewdefs ['SM_SalesOrder'] = 
+array (
+  'EditView' => 
+  array (
+    'templateMeta' => 
+    array (
+      'maxColumns' => '2',
+      'widths' => 
+      array (
+        0 => 
+        array (
+          'label' => '10',
+          'field' => '30',
+        ),
+        1 => 
+        array (
+          'label' => '10',
+          'field' => '30',
+        ),
+      ),
+      'tabDefs' => 
+      array (
+        'DEFAULT' => 
+        array (
+          'newTab' => false,
+          'panelDefault' => 'expanded',
+        ),
+      ),
+    ),
+    'panels' => 
+    array (
+      'default' => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            'name' => 'name',
+            'label' => 'LBL_NAME',
+          ),
+          1 => 
+          array (
+            'name' => 'assigned_user_name',
+            'label' => 'LBL_ASSIGNED_TO_NAME',
+          ),
+        ),
+        1 => 
+        array (
+          0 => 
+          array (
+            'name' => 'currency_id',
+            'label' => 'LBL_CURRENCY',
+          ),
+          1 => 
+          array (
+            'name' => 'requesteddeliverydate',
+            'label' => 'LBL_REQUESTEDDELIVERYDATE',
+          ),
+        ),
+        2 => 
+        array (
+          1 => 
+          array (
+            'name' => 'detailamount',
+            'label' => 'LBL_DETAILAMOUNT',
+          ),
+        ),
+        3 => 
+        array (
+          1 => 
+          array (
+            'name' => 'orderdiscount',
+            'label' => 'LBL_ORDERDISCOUNT',
+          ),
+        ),
+        4 => 
+        array (
+          1 => 
+          array (
+            'name' => 'totaltax',
+            'label' => 'LBL_TOTALTAX',
+          ),
+        ),
+        5 => 
+        array (
+          1 => 
+          array (
+            'name' => 'totalamount',
+            'label' => 'LBL_TOTALAMOUNT',
+          ),
+        ),
+        6 => 
+        array (
+          0 => 
+          array (
+            'name' => 'cases_sm_salesorder_1_name',
+          ),
+        ),
+      ),
+    ),
+  ),
+);
+?>

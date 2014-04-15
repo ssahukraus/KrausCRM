@@ -1,0 +1,33 @@
+<?php
+// created: 2012-05-11 20:33:50
+$layout_defs = array (
+  'name' => 
+  array (
+    'vname' => 'LBL_NAME',
+    'widget_class' => 'SubPanelDetailViewLink',
+    'width' => '15%',
+    'default' => true,
+  ),
+  'listprice' => 
+  array (
+    'type' => 'currency',
+    'vname' => 'LBL_LISTPRICE',
+    'currency_format' => true,
+    'width' => '15%',
+    'default' => true,
+  ),
+  'producturl' => 
+  array (
+    'type' => 'url',
+    'vname' => 'LBL_PRODUCTURL',
+    'width' => '60%',
+    'default' => true,
+  ),
+  'remove_button' => 
+  array (
+    'widget_class' => 'SubPanelRemoveButton',
+    'module' => 'SM_Products',
+    'width' => '10%',
+    'default' => true,
+  ),
+);

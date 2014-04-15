@@ -1,0 +1,38 @@
+<?php 
+ //WARNING: The contents of this file are auto-generated
+
+
+$mod_strings [ "LBL_SM_PRODUCTS_SM_PHYSINVENTORY_FROM_SM_PRODUCTS_TITLE" ] = "SM_Products" ;
+$mod_strings [ "LBL_SM_ASSETS_SM_PHYSINVENTORY_FROM_SM_ASSETS_TITLE" ] = "Assets" ;
+$mod_strings [ "LBL_SM_PRODUCTS_SM_PHYSINVENTORY_FROM_SM_PRODUCTS_TITLE" ] = "SM_Products" ;
+$mod_strings [ "LBL_SM_ASSETS_SM_PHYSINVENTORY_FROM_SM_ASSETS_TITLE" ] = "Assets" ;
+$mod_strings [ "LBL_SM_PRODUCTS_SM_PHYSINVENTORY_FROM_SM_PRODUCTS_TITLE" ] = "SM_Products" ;
+$mod_strings [ "LBL_SM_ASSETS_SM_PHYSINVENTORY_FROM_SM_ASSETS_TITLE" ] = "Assets" ;
+$mod_strings [ "LBL_SM_PHYSINVENTORY_CONTACTS_FROM_CONTACTS_TITLE" ] = "Customer Contacts" ;
+$mod_strings [ "LBL_SM_PHYSINVENTORY_CONTACTS_1_FROM_CONTACTS_TITLE" ] = "Vendor Contacts" ;
+$mod_strings [ "LBL_SM_PRODUCTS_SM_PHYSINVENTORY_FROM_SM_PRODUCTS_TITLE" ] = "SM_Products" ;
+$mod_strings [ "LBL_SM_ASSETS_SM_PHYSINVENTORY_FROM_SM_ASSETS_TITLE" ] = "Assets" ;
+$mod_strings [ "LBL_SM_PHYSINVENTORY_CONTACTS_FROM_CONTACTS_TITLE" ] = "Customer Contacts" ;
+$mod_strings [ "LBL_SM_PHYSINVENTORY_CONTACTS_1_FROM_CONTACTS_TITLE" ] = "Vendor Contacts" ;
+$mod_strings [ "LBL_SM_PRODUCTS_SM_PHYSINVENTORY_FROM_SM_PRODUCTS_TITLE" ] = "SM_Products" ;
+$mod_strings [ "LBL_SM_ASSETS_SM_PHYSINVENTORY_FROM_SM_ASSETS_TITLE" ] = "Assets" ;
+$mod_strings [ "LBL_SM_PHYSINVENTORY_CONTACTS_FROM_CONTACTS_TITLE" ] = "Customer Contacts" ;
+$mod_strings [ "LBL_SM_PHYSINVENTORY_CONTACTS_1_FROM_CONTACTS_TITLE" ] = "Vendor Contacts" ;
+$mod_strings [ "LBL_SM_PRODUCTS_SM_PHYSINVENTORY_FROM_SM_PRODUCTS_TITLE" ] = "SM_Products" ;
+$mod_strings [ "LBL_SM_ASSETS_SM_PHYSINVENTORY_FROM_SM_ASSETS_TITLE" ] = "Assets" ;
+$mod_strings [ "LBL_SM_PHYSINVENTORY_CONTACTS_FROM_CONTACTS_TITLE" ] = "Customer Contacts" ;
+$mod_strings [ "LBL_SM_PHYSINVENTORY_CONTACTS_1_FROM_CONTACTS_TITLE" ] = "Vendor Contacts" ;
+$mod_strings [ "LBL_SM_PRODUCTS_SM_PHYSINVENTORY_FROM_SM_PRODUCTS_TITLE" ] = "SM_Products" ;
+$mod_strings [ "LBL_SM_ASSETS_SM_PHYSINVENTORY_FROM_SM_ASSETS_TITLE" ] = "Assets" ;
+$mod_strings [ "LBL_SM_PHYSINVENTORY_CONTACTS_FROM_CONTACTS_TITLE" ] = "Customer Contacts" ;
+$mod_strings [ "LBL_SM_PHYSINVENTORY_CONTACTS_1_FROM_CONTACTS_TITLE" ] = "Vendor Contacts" ;
+$mod_strings [ "LBL_SM_PRODUCTS_SM_PHYSINVENTORY_FROM_SM_PRODUCTS_TITLE" ] = "SM_Products" ;
+$mod_strings [ "LBL_SM_ASSETS_SM_PHYSINVENTORY_FROM_SM_ASSETS_TITLE" ] = "Assets" ;
+$mod_strings [ "LBL_SM_PHYSINVENTORY_CONTACTS_FROM_CONTACTS_TITLE" ] = "Customer Contacts" ;
+$mod_strings [ "LBL_SM_PHYSINVENTORY_CONTACTS_1_FROM_CONTACTS_TITLE" ] = "Vendor Contacts" ;
+$mod_strings [ "LBL_SM_PRODUCTS_SM_PHYSINVENTORY_FROM_SM_PRODUCTS_TITLE" ] = "SM_Products" ;
+$mod_strings [ "LBL_SM_ASSETS_SM_PHYSINVENTORY_FROM_SM_ASSETS_TITLE" ] = "Assets" ;
+$mod_strings [ "LBL_SM_PHYSINVENTORY_CONTACTS_FROM_CONTACTS_TITLE" ] = "Customer Contacts" ;
+$mod_strings [ "LBL_SM_PHYSINVENTORY_CONTACTS_1_FROM_CONTACTS_TITLE" ] = "Vendor Contacts" ;
+
+?>

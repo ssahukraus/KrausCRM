@@ -1,0 +1,27 @@
+<?php
+// created: 2014-02-11 13:09:55
+$mod_strings = array (
+  'LBL_BILLING_ADDRESS_STREET' => 'Street:',
+  'LBL_BILLING_ADDRESS_CITY' => 'City:',
+  'LBL_BILLING_ADDRESS_STATE' => 'State:',
+  'LBL_BILLING_ADDRESS_POSTALCODE' => 'Postal Code:',
+  'LBL_BILLING_ADDRESS_COUNTRY' => 'Country:',
+  'LBL_SHIPPING_ADDRESS_STREET' => 'Shipping Street:',
+  'LBL_SHIPPING_ADDRESS_CITY' => 'Shipping City:',
+  'LBL_SHIPPING_ADDRESS_STATE' => 'Shipping State:',
+  'LBL_SHIPPING_ADDRESS_POSTALCODE' => 'Shipping Postal Code:',
+  'LBL_SHIPPING_ADDRESS_COUNTRY' => 'Shipping Country:',
+  'LBL_COUNTRY_CODE' => 'Country',
+  'LBL_PHONE_OFFICE' => 'Office Phone:',
+  'LNK_NEW_ACCOUNT' => 'Create Customer',
+  'LNK_ACCOUNT_LIST' => 'View Customers',
+  'LNK_IMPORT_ACCOUNTS' => 'Import Customers',
+  'MSG_SHOW_DUPLICATES' => 'The customer record you are about to create might be a duplicate of an customer record that already exists. Customer records containing similar names are listed below.Click Save to continue creating this new customer, or click Cancel to return to the module without creating the customer.',
+  'LBL_SAVE_ACCOUNT' => 'Save Customer',
+  'LBL_LIST_FORM_TITLE' => 'Customer List',
+  'LBL_SEARCH_FORM_TITLE' => 'Customer Search',
+  'LBL_MEMBER_OF' => 'Member of:',
+  'LBL_MEMBER_ORG_SUBPANEL_TITLE' => 'Member Organizations',
+  'LBL_HOMEPAGE_TITLE' => 'My Customers',
+  'LBL_PARENT_ACCOUNT_ID' => 'Parent Customer ID',
+);

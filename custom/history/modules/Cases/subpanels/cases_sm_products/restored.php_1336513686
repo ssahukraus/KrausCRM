@@ -1,0 +1,18 @@
+<?php
+// created: 2012-05-08 21:48:01
+$layout_defs = array (
+  'name' => 
+  array (
+    'vname' => 'LBL_NAME',
+    'widget_class' => 'SubPanelDetailViewLink',
+    'width' => '15%',
+    'default' => true,
+  ),
+  'remove_button' => 
+  array (
+    'widget_class' => 'SubPanelRemoveButton',
+    'module' => 'SM_Products',
+    'width' => '5%',
+    'default' => true,
+  ),
+);

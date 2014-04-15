@@ -1,0 +1,197 @@
+<?php
+$module_name = 'kr_Dealers';
+$viewdefs [$module_name] = 
+array (
+  'DetailView' => 
+  array (
+    'templateMeta' => 
+    array (
+      'form' => 
+      array (
+        'buttons' => 
+        array (
+          0 => 'EDIT',
+          1 => 'DUPLICATE',
+          2 => 'DELETE',
+          3 => 'FIND_DUPLICATES',
+        ),
+      ),
+      'maxColumns' => '2',
+      'widths' => 
+      array (
+        0 => 
+        array (
+          'label' => '10',
+          'field' => '30',
+        ),
+        1 => 
+        array (
+          'label' => '10',
+          'field' => '30',
+        ),
+      ),
+      'useTabs' => false,
+      'tabDefs' => 
+      array (
+        'DEFAULT' => 
+        array (
+          'newTab' => false,
+          'panelDefault' => 'expanded',
+        ),
+      ),
+      'syncDetailEditViews' => true,
+    ),
+    'panels' => 
+    array (
+      'default' => 
+      array (
+        0 => 
+        array (
+          0 => 'name',
+        ),
+        1 => 
+        array (
+          0 => 
+          array (
+            'name' => 'dealer_code',
+            'label' => 'LBL_DEALER_CODE',
+          ),
+          1 => 
+          array (
+            'name' => 'creation_date_c',
+            'label' => 'LBL_CREATION_DATE',
+          ),
+        ),
+        2 => 
+        array (
+          0 => 
+          array (
+            'name' => 'partial_shipment_c',
+            'studio' => 'visible',
+            'label' => 'LBL_PARTIAL_SHIPMENT ',
+          ),
+          1 => 
+          array (
+            'name' => 'mailing_address_c',
+            'studio' => 'visible',
+            'label' => 'LBL_MAILING_ADDRESS',
+          ),
+        ),
+        3 => 
+        array (
+          0 => 
+          array (
+            'name' => 'rebates_c',
+            'label' => 'LBL_REBATES',
+          ),
+          1 => 
+          array (
+            'name' => 'direct_ship_discount_c',
+            'label' => 'LBL_DIRECT_SHIP_DISCOUNT',
+          ),
+        ),
+        4 => 
+        array (
+          0 => 
+          array (
+            'name' => 'quantity_discount_c',
+            'label' => 'LBL_QUANTITY_DISCOUNT',
+          ),
+          1 => 
+          array (
+            'name' => 'return_method_c',
+            'studio' => 'visible',
+            'label' => 'LBL_RETURN_METHOD',
+          ),
+        ),
+        5 => 
+        array (
+          0 => 
+          array (
+            'name' => 'portal_username_c',
+            'label' => 'LBL_PORTAL_USERNAME ',
+          ),
+          1 => 
+          array (
+            'name' => 'portal_password_c',
+            'label' => 'LBL_PORTAL_PASSWORD',
+          ),
+        ),
+        6 => 
+        array (
+          0 => 
+          array (
+            'name' => 'portal_url_c',
+            'label' => 'LBL_PORTAL_URL',
+          ),
+          1 => 
+          array (
+            'name' => 'special_consideration_c',
+            'studio' => 'visible',
+            'label' => 'LBL_SPECIAL_CONSIDERATION',
+          ),
+        ),
+        7 => 
+        array (
+          0 => 
+          array (
+            'name' => 'edi_c',
+            'studio' => 'visible',
+            'label' => 'LBL_EDI',
+          ),
+          1 => 
+          array (
+            'name' => 'notes_c',
+            'label' => 'LBL_NOTES',
+          ),
+        ),
+        8 => 
+        array (
+          0 => 
+          array (
+            'name' => 'technical_capability_c',
+            'studio' => 'visible',
+            'label' => 'LBL_TECHNICAL_CAPABILITY',
+          ),
+          1 => 
+          array (
+            'name' => 'type_c',
+            'studio' => 'visible',
+            'label' => 'LBL_TYPE',
+          ),
+        ),
+        9 => 
+        array (
+          0 => 
+          array (
+            'name' => 'sales_position_c',
+            'studio' => 'visible',
+            'label' => 'LBL_SALES_POSITION',
+          ),
+          1 => 
+          array (
+            'name' => 'promotional_pricing_c',
+            'studio' => 'visible',
+            'label' => 'LBL_PROMOTIONAL_PRICING',
+          ),
+        ),
+        10 => 
+        array (
+          0 => 
+          array (
+            'name' => 'distribution_method_c',
+            'studio' => 'visible',
+            'label' => 'LBL_DISTRIBUTION_METHOD',
+          ),
+          1 => 
+          array (
+            'name' => 'special_shiping_req_c',
+            'studio' => 'visible',
+            'label' => 'LBL_SPECIAL_SHIPING_REQ',
+          ),
+        ),
+      ),
+    ),
+  ),
+);
+?>
